@@ -1,0 +1,3 @@
+trivy:
+  mode: Standalone
+  storageClassEnabled: false
